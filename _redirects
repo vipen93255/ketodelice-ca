@@ -1,3 +1,4 @@
 /index.php / 301
-/lab-casino-ca/* /casino-lab-casino-ca/:splat 301
-/canada-ca/* /casino-lab-casino-ca/:splat 301
+/casino-lab-casino-ca/* /lab-casino-casino-ca/:splat 301
+/lab-casino-ca/* /lab-casino-casino-ca/:splat 301
+/canada-ca/* /lab-casino-casino-ca/:splat 301
